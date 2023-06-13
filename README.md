@@ -1,5 +1,5 @@
 
-# Hardhat-Tailwind-React Ethers Starter Kit
+# Crowd-Funding-Dapp
 
 
 
